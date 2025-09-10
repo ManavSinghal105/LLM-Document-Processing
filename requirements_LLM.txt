@@ -1,0 +1,12 @@
+The notebook requires the following Python packages:
+
+transformers
+langchain
+faiss-cpu
+datasets
+torch
+sentence-transformers
+gemini
+tqdm
+numpy
+pandas
