@@ -15,7 +15,10 @@ The notebook integrates **Large Language Models (LLMs)** with external knowledge
  
 
 ---
+## Pipeline
+![Pipeline ](LLM_pipeline.png)
 
+---
 
 ## 🚀 Getting Started
 
